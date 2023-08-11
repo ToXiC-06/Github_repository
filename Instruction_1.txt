@@ -8,3 +8,12 @@ Step by step for git repository:
 6--> git commit -m "message" --- commit all the changes 
 7--> git diff ____ --- compare the file with previous version
 8--> git checkout ____ --- revert the changes to previos versions
+9--> git log  ---- check all the commits
+
+
+-------------------------------------------------------------------------
+PUSH TO A REMOTE REPOSITORY(GITHUB) 
+
+1- git remote add origin <link> -----  (origin is a name off our repository)
+2- git push -u origin master  ------   (master is default or main branch)
+3- 
