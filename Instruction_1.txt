@@ -1,0 +1,10 @@
+Step by step for git repository:
+
+1--> git init (git initialize) ---- create git repository 
+2--> ls -a --- all the files  
+3--> git status --- check which are in staging area
+4--> git add ______ --- add file to staging area
+5--> git add . ---- to add all the file
+6--> git commit -m "message" --- commit all the changes 
+7--> git diff ____ --- compare the file with previous version
+8--> git checkout ____ --- revert the changes to previos versions
