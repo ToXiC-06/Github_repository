@@ -9,7 +9,14 @@ Step by step for git repository:
 7--> git diff ____ --- compare the file with previous version
 8--> git checkout ____ --- revert the changes to previos versions
 9--> git log  ---- check all the commits
+10-> git rm --cached -r .   ------ remove all files from staging area
+11-> git clone <link>      ------- clone a global repository to your local repository
+12-> git branch _____      ------ creat a branch by this ___ name
+13-> git branch            ------ show all branch 
+14-> git chechout ____     ------ switch to ____ branch
+15-> git merge _____       ------ merge branches
 
+  
 
 -------------------------------------------------------------------------
 PUSH TO A REMOTE REPOSITORY(GITHUB) 
